@@ -5,3 +5,5 @@
 24-03-2019 V1.1 Small update after initial plays and feedback
 
 08-04-2019 v1.2 #3 Typo Corrected #4 Polish Translation added
+
+16-04-2019 v1.3 #4 imrpved english text and Polish translation
