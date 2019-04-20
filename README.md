@@ -7,3 +7,7 @@
 08-04-2019 v1.2 #3 Typo Corrected #4 Polish Translation added
 
 16-04-2019 v1.3 #4 imrpved english text and Polish translation
+
+20-04-2019 v1.4 Textual improvements and some tweaking suggestions from Nicola Zee
+
+ 
