@@ -13,3 +13,5 @@
 05-05-2019 v1.5 minor issues solved
 
 21-07-2019 v1.5 #6 implemented, Added more variaty when expensions COTWM, HJ and BTT are present
+
+16-11-2019 v1.6 #7 implemented.
