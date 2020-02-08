@@ -17,3 +17,5 @@
 16-11-2019 v1.6 #7 implemented.
 
 01-12-2019 v1.9 #8 implemented. Added English voice over from Stephen Weese and Ambria Schneider as Elli
+
+08-02-2020 v1.10 Added French and Spanish translation.
