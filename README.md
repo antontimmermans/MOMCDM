@@ -21,3 +21,5 @@
 08-02-2020 v1.10 Added French and Spanish translation.
 
 16-03-2020 v1.11 Updated Spanish translation. #12 implemented
+
+13-04-2020 v1.12 Simplified Summoning ritual
