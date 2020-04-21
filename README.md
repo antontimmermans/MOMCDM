@@ -23,3 +23,5 @@
 16-03-2020 v1.11 Updated Spanish translation. #12 implemented
 
 13-04-2020 v1.12 Simplified Summoning ritual
+
+21-04-2020 v1.13 Adapted audio and diaogue at 'time is up' ending.
