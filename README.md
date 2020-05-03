@@ -24,4 +24,6 @@
 
 13-04-2020 v1.12 Simplified Summoning ritual
 
-21-04-2020 v1.13 Adapted audio and diaogue at 'time is up' ending.
+21-04-2020 v1.13 Adapted audio and dialogue at 'time is up' ending.
+
+03-05-2020 v1.14 Added Portuguese translation and audio files created by Eduardo Almeida (#13)
