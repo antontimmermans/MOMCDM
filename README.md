@@ -27,3 +27,5 @@
 21-04-2020 v1.13 Adapted audio and dialogue at 'time is up' ending.
 
 03-05-2020 v1.14 Added Portuguese translation and audio files created by Eduardo Almeida (#13)
+
+27-11-2020 v1.15 Updated scenario for Valkyrie 2.5.0 using the trigger BeforeMonsterActivation
