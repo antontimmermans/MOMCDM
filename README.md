@@ -29,3 +29,5 @@
 03-05-2020 v1.14 Added Portuguese translation and audio files created by Eduardo Almeida (#13)
 
 27-11-2020 v1.15 Updated scenario for Valkyrie 2.5.0 using the trigger BeforeMonsterActivation
+
+20-12-2020 v1.15a Small text changes in English and Spanish text
