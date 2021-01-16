@@ -31,3 +31,5 @@
 27-11-2020 v1.15 Updated scenario for Valkyrie 2.5.0 using the trigger BeforeMonsterActivation
 
 20-12-2020 v1.15a Small text changes in English and Spanish text
+
+16-01-2021 v1.15b Adding Italian translation by Nicola Della Casa
