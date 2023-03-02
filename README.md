@@ -33,3 +33,5 @@
 20-12-2020 v1.15a Small text changes in English and Spanish text
 
 16-01-2021 v1.15b Adding Italian translation by Nicola Della Casa
+
+02-03-2023 v1.15c Fixed bug to not hand-out Becky twice
