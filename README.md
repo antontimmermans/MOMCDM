@@ -35,3 +35,5 @@
 16-01-2021 v1.15b Adding Italian translation by Nicola Della Casa
 
 02-03-2023 v1.15c Fixed bug to not hand-out Becky twice
+
+02-03-2023 v1.15d Added German translation by Frankenraecher
