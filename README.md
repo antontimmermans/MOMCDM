@@ -37,3 +37,5 @@
 02-03-2023 v1.15c Fixed bug to not hand-out Becky twice
 
 02-03-2023 v1.15d Added German translation by Frankenraecher
+
+19-08-2023 v1.15e Added Chinese translation by Sammylin
