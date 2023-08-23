@@ -39,3 +39,5 @@
 02-03-2023 v1.15d Added German translation by Frankenraecher
 
 19-08-2023 v1.15e Added Chinese translation by Sammylin
+
+23-08-2023 v1.15f Small text fix in Chinese translation
