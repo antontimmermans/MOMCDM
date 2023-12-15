@@ -41,3 +41,5 @@
 19-08-2023 v1.15e Added Chinese translation by Sammylin
 
 23-08-2023 v1.15f Small text fix in Chinese translation
+
+15-12-2023 v1.15g Added MinCam and MaxCam Settings to limit camera movement to play board
